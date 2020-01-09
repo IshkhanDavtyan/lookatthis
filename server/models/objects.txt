@@ -1,0 +1,1 @@
+{"name":{"type":"String","required":"true","validator":"val(value){ if(value.length<2){throw new Error ('err')}}"}}
